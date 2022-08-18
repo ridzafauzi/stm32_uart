@@ -10,4 +10,4 @@ List of hardwares used :-<br />
 1. STM32 blue pill 
 2. SIMCOM SIM868 moudule
 3. DC-DC converter module
-4. lithium-ion battery
+4. lithium polymer battery
