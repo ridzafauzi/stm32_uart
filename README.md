@@ -11,3 +11,5 @@ List of hardwares used :-<br />
 2. SIMCOM SIM868 moudule
 3. DC-DC converter module
 4. lithium polymer battery
+5. ST-Link V2 programmer
+6. CH340 USB to Serial
